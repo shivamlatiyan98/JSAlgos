@@ -19,7 +19,7 @@ findCandidate(a[], size)
 */
 
 // To check if an element occurs inside the array more than half of the array size of the array.
-/* Implemented by @angularboy on 30/11/2016
+// Implemented by @angularboy on 30/11/2016
 
 function checkMajority(array) {
     var maj_index = 0; count =1;
